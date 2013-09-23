@@ -11,6 +11,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	//ptr_test();
 	//test1();
 	//testtest();
+	/* Re test for github*/
 	system("pause");
 	return 0;
 
